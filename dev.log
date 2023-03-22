@@ -1,0 +1,7 @@
+
+> home@0.1.0 dev
+> next dev -- --port 3000
+
+[32mready[39m - started server on 0.0.0.0:3000, url: http://localhost:3000
+[35mevent[39m - compiled client and server successfully in 2.5s (170 modules)
+[?25h
